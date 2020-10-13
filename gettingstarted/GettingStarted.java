@@ -123,13 +123,13 @@ public class GettingStarted {
 	 */
 	public static String getDataDir(String path) 
 	{
-        File dir = new File(System.getProperty("user.dir"));
+		File dir = new File(System.getProperty("user.dir"));
 		if(!(dir.toString().endsWith("samples")))
 			dir = dir.getParentFile();
-        dir = new File(dir, "resources");
-        dir = new File(dir, path);
-        if (dir.isDirectory() == false)
+		dir = new File(dir, "resources");
+		dir = new File(dir, path);
+		if (dir.isDirectory() == false)
 			dir.mkdir();
-        return dir.toString();
-    }
+		return dir.toString();
+	}
 }
