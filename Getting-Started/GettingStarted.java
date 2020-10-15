@@ -1,5 +1,3 @@
-package gettingstarted;
-
 import java.io.File;
 import java.io.FileInputStream;
 import com.syncfusion.docio.*;

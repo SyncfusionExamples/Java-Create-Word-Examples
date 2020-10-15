@@ -4,7 +4,7 @@ This repository contains examples that illustrates how to create a new Word docu
 
 # Key Features
 
-- [Getting Started in Java](gettingstarted/) - Creating a new Word document from scratch with basic elements.
+- [Getting Started in Java](Getting-Started/) - Creating a new Word document from scratch with basic elements.
 
 # Resources
 
