@@ -1,5 +1,5 @@
 package helloworld;
-import com.syncfusion.docio.WordDocument;
+import com.syncfusion.docio.*;
 
 public class HelloWorld {
 
