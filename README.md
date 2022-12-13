@@ -1,6 +1,6 @@
 # Java-Create-Word-Examples
 
-This repository contains examples that illustrates how to create a new Word document with text, images, and tables in Java using [Syncfusion’s Java Word library](https://www.syncfusion.com/word-framework/java/word-library?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples) (Essential DocIO) without Microsoft Word or Office interop dependencies.
+This repository contains examples that illustrates how to create a new Word document with text, images, and tables in Java using [Syncfusion’s Java Word library](https://www.syncfusion.com/document-processing/word-framework/java/word-library?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples) (Essential DocIO) without Microsoft Word or Office interop dependencies.
 
 # Key Features
 
@@ -8,7 +8,7 @@ This repository contains examples that illustrates how to create a new Word docu
 
 # Resources
 
-- **Product page:** [Syncfusion Java Word Framework](https://www.syncfusion.com/word-framework/java?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples)
+- **Product page:** [Syncfusion Java Word Framework](https://www.syncfusion.com/document-processing/word-framework/java?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples)
 
 - **Documentation:** [Getting started to Syncfusion Java Word library](https://help.syncfusion.com/java-file-formats/word-library/getting-started?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples)
 
