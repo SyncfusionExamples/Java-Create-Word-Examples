@@ -2,27 +2,58 @@
 
 This repository contains examples that illustrates how to create a new Word document with text, images, and tables in Java using [Syncfusion’s Java Word library](https://www.syncfusion.com/document-processing/word-framework/java/word-library?utm_source=github&utm_medium=listing&utm_campaign=github-java-create-word-examples) (Essential DocIO) without Microsoft Word or Office interop dependencies.
 
-# Key Features
+## Key Features
+--------------
 
 - [Getting Started in Java](Getting-Started/) - Creating a new Word document from scratch with basic elements.
 
-# Resources
+## Syncfusion Java Word Library
+------------------------------
 
-- **Product page:** [Syncfusion Java Word Framework](https://www.syncfusion.com/document-processing/word-framework/java?utm_source=github&utm_medium=listing&utm_campaign=github-java-create-word-examples)
+The Syncfusion DocIO is a [Java Word library](https://www.syncfusion.com/document-processing/word-framework/java/word-library?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) allows you to add advanced Word document processing and does not require Microsoft Word application to be installed in the machine. It is a non-UI component that provides a full-fledged document instance model similar to the Microsoft Office COM libraries to iterate with the document elements explicitly and perform necessary manipulation. 
 
-- **Documentation:** [Getting started to Syncfusion Java Word library](https://help.syncfusion.com/java-file-formats/word-library/getting-started?utm_source=github&utm_medium=listing&utm_campaign=github-java-create-word-examples)
+Take a moment to peruse the [documentation](https://help.syncfusion.com/file-formats/docio/getting-started?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), where you can find basic Word document processing options along with the features like [mail merge](https://help.syncfusion.com/file-formats/docio/working-with-mail-merge?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [merge](https://help.syncfusion.com/file-formats/docio/word-document/merging-word-documents?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [split](https://help.syncfusion.com/file-formats/docio/word-document/split-word-documents?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) and [compare documents](https://help.syncfusion.com/file-formats/docio/word-document/compare-word-documents?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [find and replace](https://help.syncfusion.com/file-formats/docio/working-with-find-and-replace?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) text in the Word document, [protect](https://help.syncfusion.com/file-formats/docio/working-with-security?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) the Word documents, and most importantly, the [PDF](https://help.syncfusion.com/file-formats/docio/word-to-pdf?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) and [Image](https://help.syncfusion.com/file-formats/docio/word-to-image?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) conversions with code examples.
 
-- **Online demo:** [Essential DocIO demos](https://github.com/syncfusion/java-demos?utm_source=github&utm_medium=listing&utm_campaign=github-java-create-word-examples)
+## Compatible Microsoft Word Versions
+----------------------------------
 
-- **Download:** [Syncfusion File Formats Controls](https://www.syncfusion.com/sales/products/fileformats?utm_source=github&utm_medium=listing&utm_campaign=github-java-create-word-examples)
+*   Microsoft Word 97-2003
+*   Microsoft Word 2007
+*   Microsoft Word 2010
+*   Microsoft Word 2013
+*   Microsoft Word 2016
+*   Microsoft Word 2019
+*   Microsoft 365
 
-# Support and feedback
+## Supported File Formats
+----------------------
 
-* For queries, contact our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing&utm_campaign=github-java-create-word-examples) or post the queries through [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=github-java-create-word-examples).
+*   Creates, reads, and edits popular text file formats like [DOC](https://help.syncfusion.com/file-formats/docio/word-file-formats?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples#doc-to-docx-and-docx-to-doc), DOT, [DOCM](https://help.syncfusion.com/file-formats/docio/word-file-formats?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples#macros), DOTM, [DOCX](https://help.syncfusion.com/file-formats/docio/word-file-formats?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples#doc-to-docx-and-docx-to-doc), [DOTX](https://help.syncfusion.com/file-formats/docio/word-file-formats?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples#templates), [HTML](https://help.syncfusion.com/file-formats/docio/html?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [RTF](https://help.syncfusion.com/file-formats/docio/rtf?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [TXT](https://help.syncfusion.com/file-formats/docio/text?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), and [XML (WordML)](https://help.syncfusion.com/file-formats/docio/word-file-formats#word-processing-xml-xml?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
+*   Converts Word documents also to [PDF](https://help.syncfusion.com/file-formats/docio/word-to-pdf?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [Image](https://help.syncfusion.com/file-formats/docio/word-to-image?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), and [ODT](https://help.syncfusion.com/file-formats/docio/word-to-odt?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) files.
 
-* To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-java-create-word-examples) or contact our sales team at [salessupport@syncfusion.com](mailto:salessupport@syncfusion.com).
+## How to run the examples
+-------------------------
 
-# License
+- Download this project to a location in your disk.
+- Open the solution file using Visual Studio.
+- Rebuild the solution to install the required NuGet packages.
+- Run the application.
 
-This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es?utm_source=github&utm_medium=listing&utm_campaign=github-java-create-word-examples). You can purchase a license [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-java-create-word-examples) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-java-create-word-examples).
+## Resources
+------------
 
+- **Product page:** [Syncfusion Java Word Framework](https://www.syncfusion.com/document-processing/word-framework/java?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
+- **Documentation:** [Getting started to Syncfusion Java Word library](https://help.syncfusion.com/java-file-formats/word-library/getting-started?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
+- **GitHub Examples:** [Syncfusion Word library examples](https://github.com/SyncfusionExamples/DocIO-Examples?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
+- **Online demo:** [Syncfusion Word library - Online demos](https://ej2.syncfusion.com/aspnetcore/DocIO/SalesInvoice?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
+
+## Support and feedback
+-----------------------
+
+For any other queries, reach our [Syncfusion support team](https://support.syncfusion.com/?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
+
+Request new feature through [Syncfusion feedback portal](https://www.syncfusion.com/feedback?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
+
+## License
+----------
+This is a commercial product and requires a paid license for possession or use. Syncfusion's licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/license/studio/22.2.5/syncfusion_essential_studio_eula.pdf?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples). You can purchase a licnense [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
